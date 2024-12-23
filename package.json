@@ -1,0 +1,29 @@
+{
+  "name": "pgmanagementapp",
+  "version": "1.0.0",
+  "description": "An app for managing all the pg related administration",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammed-sadhiq/pgmanagementapp.git"
+  },
+  "keywords": [
+    "pgmanagement",
+    "building",
+    "rooms",
+    "tenant"
+  ],
+  "author": "Mohammed sadhiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammed-sadhiq/pgmanagementapp/issues"
+  },
+  "homepage": "https://github.com/mohammed-sadhiq/pgmanagementapp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  }
+}
